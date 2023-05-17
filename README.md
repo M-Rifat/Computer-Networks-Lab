@@ -1,12 +1,14 @@
 # Computer-Networks-Lab
 
-enable
-config ter
-interface f0/0
+enable >>
+config ter >>
+interface f0/0 >>
 ip address 
+
 -------
 router rip 
 network 
+
 -------
 
 //ospf
